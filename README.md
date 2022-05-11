@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MMHsandakelum
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Web Develop
 - 🌱 I’m currently learning Information communication technology in rajarata university of srilanka
 
 
