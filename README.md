@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsha Sandakelum</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmhsandakelum" alt="mmhsandakelum" /></a> </p>
-
 - 🔭 I’m currently working at [Evoke International (pvt) Ltd](https://evoke.lk/)
 
 - 🌱 I’m currently learning **Express.js & ASP.NET**
